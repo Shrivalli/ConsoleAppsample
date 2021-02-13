@@ -1,0 +1,13 @@
+G:\CTS Data\ID005\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.exe
+G:\CTS Data\ID005\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.deps.json
+G:\CTS Data\ID005\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.runtimeconfig.json
+G:\CTS Data\ID005\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.runtimeconfig.dev.json
+G:\CTS Data\ID005\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.dll
+G:\CTS Data\ID005\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.pdb
+G:\CTS Data\ID005\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.csprojAssemblyReference.cache
+G:\CTS Data\ID005\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.AssemblyInfoInputs.cache
+G:\CTS Data\ID005\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.AssemblyInfo.cs
+G:\CTS Data\ID005\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.csproj.CoreCompileInputs.cache
+G:\CTS Data\ID005\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.dll
+G:\CTS Data\ID005\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.pdb
+G:\CTS Data\ID005\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.genruntimeconfig.cache
